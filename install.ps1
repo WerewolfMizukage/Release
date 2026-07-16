@@ -10,7 +10,7 @@ if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 $base       = 'https://github.com/WerewolfMizukage/Release/releases/download/Latest'
 $zipUrl     = "$base/Release.zip"
 $7zaUrl     = "$base/7za.exe"
-$password   = 'E@8t4}#'
+$password   = 'SOFT2026'
 $exeName    = 'Release.exe'
 $silentArgs = '/S'
 
